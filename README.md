@@ -4,9 +4,11 @@ Ce projet est un service e-commerce basé sur une architecture de microservices.
 **************************************Installation**********************************************************
 
 1-Clonez ce dépôt de projet :
+
         git clone <URL_DU_REPO>
 
 2-Installez les dépendances en exécutant la commande suivante dans le répertoire du projet :
+
         npm install
 
 3-Configurez les connexions aux bases de données :
