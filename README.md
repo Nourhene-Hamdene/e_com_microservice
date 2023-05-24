@@ -1,4 +1,6 @@
 Projet de service e-commerce
+
+
 Ce projet est un service e-commerce basé sur une architecture de microservices. Il utilise GraphQL pour la communication entre les différents services et gRPC pour la communication avec les bases de données.
 
 **************************************Installation**********************************************************
