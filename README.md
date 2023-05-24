@@ -71,7 +71,7 @@ Les principales technologies utilisées dans ce projet sont les suivantes :
 ********************************************Contribuer*******************************************
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer, veuillez suivre les étapes suivantes :
 
-1-Fork ce dépôt de projet.
+1-Fork ce dépôt de projet. 
 2-Créez une branche pour votre fonctionnalité ou votre correction de bogue : git checkout -b ma-branche
 3-Effectuez les modifications nécessaires.
 4-Committez vos modifications : git commit -m "Ajouter une nouvelle fonctionnalité"
